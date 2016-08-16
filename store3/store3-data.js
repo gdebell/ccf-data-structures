@@ -161,3 +161,5 @@ var store3 = [{
 }];
 
 module.exports = store3;
+//module.exports = store1;
+//module.exports = store2;
